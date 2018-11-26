@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "balloop-dev-25227"
+    "default": "balloop-dev-25227",
+    "production": "balloop-47f23"
   }
 }
